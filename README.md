@@ -1,3 +1,3 @@
 # MED-DETECT
-Reconciliation tool for electronic healthcare records (EHR)
-More information can be found at www.duolark.com 
+Reconciliation tool for electronic healthcare records (EHR). 
+You can find more information at www.duolark.com 
